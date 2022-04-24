@@ -1,3 +1,15 @@
+/*
+********
+*******
+******
+*****
+****
+***
+**
+*
+*/
+
+
 import java.net.NoRouteToHostException;
 
 public class TestFor_hinh1 {
