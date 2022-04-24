@@ -1,3 +1,15 @@
+/*
+   *****
+   *  *
+   * *
+   **
+   *
+  **
+ * *
+****
+*/
+
+
 public class TestFor_hinh2 {
     public static void hinh5(int h){
         for(int i=0;i<h;i++){
